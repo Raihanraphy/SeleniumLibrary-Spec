@@ -1,0 +1,3 @@
+1. RobotframeWork-SeleniumLibarary is not working the try for libspec using the later command
+
+python -m robot.libdoc seleniumlibrary seleniumlibrary.libspec
